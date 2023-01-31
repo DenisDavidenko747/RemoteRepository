@@ -10,6 +10,6 @@
 
 * *git merging* команда, сливающая текущую ветку с веткой (brench_name)
 
-## Branch merging
+* *get branch -d* команда, удаляющая ветку *branch_name*.
 
 ## Condlicts
