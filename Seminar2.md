@@ -8,6 +8,10 @@
 
 * *git branch_name* команда позволяющая перейти на указанную ветку (name).
 
-## Branch merging
+## Brench merging
+
+* *git merging* команда, сливающая текущую ветку с веткой (brench_name)
+
+* *get branch -d* команда, удаляющая ветку *branch_name*.
 
 ## Condlicts
