@@ -14,4 +14,4 @@
 
 * *get branch -d* команда, удаляющая ветку *branch_name*.
 
-## Condlicts
+## Conflicts
